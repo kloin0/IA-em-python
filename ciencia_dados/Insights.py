@@ -3,7 +3,7 @@
 é recomendar soluções para o negócio
 através de Insights gerados por uma ótima Análise Exploratória de Dados.'''
 
-mport matplotlib.pyplot as plt 
+import matplotlib.pyplot as plt 
 import pandas as pd  
 import seaborn as sns
 import numpy, scipy,statsmodels,zipfile
