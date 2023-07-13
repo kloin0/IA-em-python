@@ -10,7 +10,3 @@ podemos prever vendas e em um nível mais avançado podemos usar para ação do 
 
 Análise prescritiva: Bom ele e como se fosse a análise preditiva melhor porque além de fazer a mesma coisa ela ainda te da uma 
 sugestão para resolver o sue negócio
-
-VOU ESCREVER OS PRINCIPAIS MODELOS UTILIZADO NA CIÊNCIA DE DADOS.
-LEMBRANDO QUE EU PEGUE ESSA DEFINIÇÃO DO MEU ARTIGO ESCRITO NO MEDIUM.COM 
-LINK = 
